@@ -6,7 +6,7 @@
 
 ## Description
 
-Using AWS CloudFormation we can automate the installion of many services. In this tutorial we use the 2 yaml file below, along with CloudFormation, to automate the creation of EC2 webservers
+Using AWS CloudFormation we can automate the installion of many services. In this tutorial we use the 2 yaml files below, along with CloudFormation, to automate the creation of EC2 webservers
 <youtube>
 
 ## File Listing & Description

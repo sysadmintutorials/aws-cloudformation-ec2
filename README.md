@@ -6,10 +6,8 @@
 
 ## Description
 
-This user-data script is to complement my current tutorial video on How to create an Amazon AWS Windows Server EC2 Instance.
+Using AWS CloudFormation we can automate the installion of many services. In this tutorial we use the 2 yaml file below, along with CloudFormation, to automate the creation of EC2 webservers
 <youtube>
-
-It will install the necessary components within Windows to enable an IIS webserver and output hostname, instance type, operating system, IP/DNS information to index.html
 
 ## File Listing & Description
 1. ec2-linux-webserver.yaml<br>
